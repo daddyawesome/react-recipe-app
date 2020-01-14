@@ -17,8 +17,15 @@
 }
 
 .search-button{
-  background: lightsteelblue;
+  background: rgb(184, 235, 218);
   border: none;
   padding: 10px 20px;
   color: white;
 }
+
+.recipes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
